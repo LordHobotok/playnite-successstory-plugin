@@ -21,13 +21,13 @@
     <sys:String x:Key="LOCSucessStoryEnableOrigin">Включить достижения Origin</sys:String>
 
     <sys:String x:Key="LOCSucessStoryIncludeHiddenGames">Включая скрытые игры</sys:String>
-    <sys:String x:Key="LOCSucessStoryAllUnlockedByMonth">Graphic with all unlocked achievements by month</sys:String>
-    <sys:String x:Key="LOCSucessStoryGameUnlockedByMonth">Graphic with game unlocked achievements by month</sys:String>
+    <sys:String x:Key="LOCSucessStoryAllUnlockedByMonth">График со всеми разблокированными достижениями по месяцам</sys:String>
+    <sys:String x:Key="LOCSucessStoryGameUnlockedByMonth">График с разблокированными достижениями по месяцам игры</sys:String>
 
     <sys:String x:Key="LOCSucessStoryIsAsc">По возрастанию</sys:String>
 
     <sys:String x:Key="LOCSucessStoryDatabase">Манипуляция с базой данных</sys:String>
-    <sys:String x:Key="LOCSuccessStoryGetData">Get data</sys:String>
+    <sys:String x:Key="LOCSuccessStoryGetData">Получить данные</sys:String>
     <sys:String x:Key="LOCSuccessStoryRefreshData">Обновить</sys:String>
     <sys:String x:Key="LOCSucessStoryRefreshData">Обновить</sys:String>
     <sys:String x:Key="LOCSucessStoryGetMissing">Загрузить</sys:String>
@@ -49,7 +49,7 @@
     <sys:String x:Key="LOCSucessStoryIntegrationInCustomTheme">Пользовательская интеграция темы (если интегрирована)</sys:String>
     <sys:String x:Key="LOCSucessStoryIntegrationButton">Добавить кнопку</sys:String>
     <sys:String x:Key="LOCSucessStoryIntegrationButtonDetails">Добавить кнопку с деталями</sys:String>
-    <sys:String x:Key="LOCSucessStoryIntegrationButtonHeader">Add button in window</sys:String>
+    <sys:String x:Key="LOCSucessStoryIntegrationButtonHeader">Добавить кнопку в окне</sys:String>
 
     <sys:String x:Key="LOCSucessStoryRefreshDataMessage">База достижений была обновлена.</sys:String>
 
@@ -71,8 +71,8 @@
     <sys:String x:Key="LOCSucessStorylvGamesProgression">Прогрес</sys:String>
 
     <sys:String x:Key="LOCSucessStoryGraphicTitleALL">Все достижения разблокированые по месяцам</sys:String>
-    <sys:String x:Key="LOCSucessStoryGraphicTitleALLDay">All achievements unlocked by day</sys:String>
+    <sys:String x:Key="LOCSucessStoryGraphicTitleALLDay">Все достижения разблокированые по дням</sys:String>
     <sys:String x:Key="LOCSucessStoryGraphicTitle">Достижения разблокированые по месяцам</sys:String>
-    <sys:String x:Key="LOCSucessStoryGraphicTitleDay">Achievements unlocked by day</sys:String>
+    <sys:String x:Key="LOCSucessStoryGraphicTitleDay">Достижения разблокированые по дням</sys:String>
     
 </ResourceDictionary>
