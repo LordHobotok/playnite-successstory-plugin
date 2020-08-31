@@ -19,7 +19,7 @@
 
     <sys:String x:Key="LOCSucessStoryIncludeHiddenGames">Включая скрытые игры</sys:String>
     <sys:String x:Key="LOCSucessStoryAllUnlockedByMonth">График со всеми достижениями по месяцам</sys:String>
-    <sys:String x:Key="LOCSucessStoryGameUnlockedByMonth">Графика с достижениями игровы по месяцам</sys:String>
+    <sys:String x:Key="LOCSucessStoryGameUnlockedByMonth">График с достижениями игр по месяцам</sys:String>
 
     <sys:String x:Key="LOCSucessStoryDefaultSorting">Сортировка</sys:String>
     <sys:String x:Key="LOCSucessStoryIsAsc">По возрастанию</sys:String>
