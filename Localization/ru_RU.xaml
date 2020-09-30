@@ -8,8 +8,8 @@
     <sys:String x:Key="LOCSucessStory">Достижения</sys:String>
     <sys:String x:Key="LOCSucessStoryAchievements">Достижения</sys:String>
 
-    <sys:String x:Key="LOCSucessStoryNotificationsSteamPrivate">Steam profil is not public</sys:String>
-    <sys:String x:Key="LOCSucessStoryNotificationsXboxNotAuthenticate">Xbox user is not authenticated</sys:String>
+    <sys:String x:Key="LOCSucessStoryNotificationsSteamPrivate">Steam профиль не является публичным</sys:String>
+    <sys:String x:Key="LOCSucessStoryNotificationsXboxNotAuthenticate">Xbox пользователь не аутентифицирован</sys:String>
 
     <!--  
     SuccessStorySettingsView
@@ -57,12 +57,12 @@
     <sys:String x:Key="LOCSucessStoryIntegrationButtonDetails">Добавить кнопку с деталями</sys:String>
     <sys:String x:Key="LOCSucessStoryIntegrationButtonHeader">Добавить значок в окне</sys:String>
     <sys:String x:Key="LOCSucessStoryIntegrationShowProgressBar">Отображать прогресс:</sys:String>
-    <sys:String x:Key="LOCSucessStoryIntegrationShowAchievementsCompactUnlocked">Показывать компактный разблокированный список</sys:String>
-    <sys:String x:Key="LOCSucessStoryIntegrationShowAchievementsCompactLocked">Показывать компактный заблокированный список</sys:String>
+    <sys:String x:Key="LOCSucessStoryIntegrationShowAchievementsCompactUnlocked">Компактный разблок. список</sys:String>
+    <sys:String x:Key="LOCSucessStoryIntegrationShowAchievementsCompactLocked">Компактный заблок. список</sys:String>
 
     <sys:String x:Key="LOCSucessStoryIntegrationOptions">Выбранные элементы</sys:String>
     <sys:String x:Key="LOCSucessStoryIntegrationGraphicOptions">Графические опции</sys:String>
-    <sys:String x:Key="LOCSucessStoryIntegrationGraphicOptionsCountAbscissa">Number of data in abscissa</sys:String>
+    <sys:String x:Key="LOCSucessStoryIntegrationGraphicOptionsCountAbscissa">Количество данных в абсциссе</sys:String>
     <sys:String x:Key="LOCSucessStoryIntegrationGraphicShowLabels">Показать метки абциссов</sys:String>
     <sys:String x:Key="LOCSucessStoryIntegrationGraphicShowLabelsOrdinates">Показать метки координат</sys:String>
     <sys:String x:Key="LOCSucessStoryIntegrationProgressBarOptions">Индикатор прогресса</sys:String>
